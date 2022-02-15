@@ -21,7 +21,6 @@ dash-core-components==1.14.1
 dash-html-components==1.1.1
 dash-renderer==1.8.3
 dash-table==4.11.1
-dataclasses==0.8
 debugpy==1.5.1
 decorator==5.1.1
 entrypoints==0.4
